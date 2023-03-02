@@ -1,0 +1,41 @@
+{
+  "Name": "Color",
+  "Description": "Ribbon color.",
+  "Priority": 0,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "Fuchsia Pink",
+      "Description": "#FF77FF",
+      "Files": {
+        "chara/human/c1401/obj/tail/t0001/material/v0001/mt_c1401t0001_b.mtrl": "pink/ribbon_pink.mtrl",
+        "chara/human/c1401/obj/tail/t0101/material/v0001/mt_c1401t0101_b.mtrl": "pink/ribbon_pink.mtrl",
+        "chara/human/c1401/obj/tail/t0002/material/v0001/mt_c1401t0002_b.mtrl": "pink/ribbon_pink.mtrl",
+        "chara/human/c1401/obj/tail/t0102/material/v0001/mt_c1401t0102_b.mtrl": "pink/ribbon_pink.mtrl",
+        "chara/human/c1401/obj/tail/t0003/material/v0001/mt_c1401t0003_b.mtrl": "pink/ribbon_pink.mtrl",
+        "chara/human/c1401/obj/tail/t0103/material/v0001/mt_c1401t0103_b.mtrl": "pink/ribbon_pink.mtrl",
+        "chara/human/c1401/obj/tail/t0004/material/v0001/mt_c1401t0004_b.mtrl": "pink/ribbon_pink.mtrl",
+        "chara/human/c1401/obj/tail/t0104/material/v0001/mt_c1401t0104_b.mtrl": "pink/ribbon_pink.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Purple Daffodil",
+      "Description": "#B041FF",
+      "Files": {
+        "chara/human/c1401/obj/tail/t0001/material/v0001/mt_c1401t0001_b.mtrl": "purple/ribbon_purple.mtrl",
+        "chara/human/c1401/obj/tail/t0101/material/v0001/mt_c1401t0101_b.mtrl": "purple/ribbon_purple.mtrl",
+        "chara/human/c1401/obj/tail/t0002/material/v0001/mt_c1401t0002_b.mtrl": "purple/ribbon_purple.mtrl",
+        "chara/human/c1401/obj/tail/t0102/material/v0001/mt_c1401t0102_b.mtrl": "purple/ribbon_purple.mtrl",
+        "chara/human/c1401/obj/tail/t0003/material/v0001/mt_c1401t0003_b.mtrl": "purple/ribbon_purple.mtrl",
+        "chara/human/c1401/obj/tail/t0103/material/v0001/mt_c1401t0103_b.mtrl": "purple/ribbon_purple.mtrl",
+        "chara/human/c1401/obj/tail/t0004/material/v0001/mt_c1401t0004_b.mtrl": "purple/ribbon_purple.mtrl",
+        "chara/human/c1401/obj/tail/t0104/material/v0001/mt_c1401t0104_b.mtrl": "purple/ribbon_purple.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

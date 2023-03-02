@@ -1,0 +1,33 @@
+{
+  "Name": "",
+  "Description": "",
+  "Priority": 0,
+  "Files": {
+    "chara/human/c1401/obj/tail/t0001/texture/c1401t0001_etc_b_d.tex": "global/diffuse.tex",
+    "chara/human/c1401/obj/tail/t0101/texture/c1401t0101_etc_b_d.tex": "global/diffuse.tex",
+    "chara/human/c1401/obj/tail/t0002/texture/c1401t0002_etc_b_d.tex": "global/diffuse.tex",
+    "chara/human/c1401/obj/tail/t0102/texture/c1401t0102_etc_b_d.tex": "global/diffuse.tex",
+    "chara/human/c1401/obj/tail/t0003/texture/c1401t0003_etc_b_d.tex": "global/diffuse.tex",
+    "chara/human/c1401/obj/tail/t0103/texture/c1401t0103_etc_b_d.tex": "global/diffuse.tex",
+    "chara/human/c1401/obj/tail/t0004/texture/c1401t0004_etc_b_d.tex": "global/diffuse.tex",
+    "chara/human/c1401/obj/tail/t0104/texture/c1401t0104_etc_b_d.tex": "global/diffuse.tex",
+    "chara/human/c1401/obj/tail/t0001/texture/c1401t0001_etc_b_n.tex": "global/normal.tex",
+    "chara/human/c1401/obj/tail/t0101/texture/c1401t0101_etc_b_n.tex": "global/normal.tex",
+    "chara/human/c1401/obj/tail/t0002/texture/c1401t0002_etc_b_n.tex": "global/normal.tex",
+    "chara/human/c1401/obj/tail/t0102/texture/c1401t0102_etc_b_n.tex": "global/normal.tex",
+    "chara/human/c1401/obj/tail/t0003/texture/c1401t0003_etc_b_n.tex": "global/normal.tex",
+    "chara/human/c1401/obj/tail/t0103/texture/c1401t0103_etc_b_n.tex": "global/normal.tex",
+    "chara/human/c1401/obj/tail/t0004/texture/c1401t0004_etc_b_n.tex": "global/normal.tex",
+    "chara/human/c1401/obj/tail/t0104/texture/c1401t0104_etc_b_n.tex": "global/normal.tex",
+    "chara/human/c1401/obj/tail/t0001/texture/c1401t0001_etc_b_s.tex": "global/specular.tex",
+    "chara/human/c1401/obj/tail/t0101/texture/c1401t0101_etc_b_s.tex": "global/specular.tex",
+    "chara/human/c1401/obj/tail/t0002/texture/c1401t0002_etc_b_s.tex": "global/specular.tex",
+    "chara/human/c1401/obj/tail/t0102/texture/c1401t0102_etc_b_s.tex": "global/specular.tex",
+    "chara/human/c1401/obj/tail/t0003/texture/c1401t0003_etc_b_s.tex": "global/specular.tex",
+    "chara/human/c1401/obj/tail/t0103/texture/c1401t0103_etc_b_s.tex": "global/specular.tex",
+    "chara/human/c1401/obj/tail/t0004/texture/c1401t0004_etc_b_s.tex": "global/specular.tex",
+    "chara/human/c1401/obj/tail/t0104/texture/c1401t0104_etc_b_s.tex": "global/specular.tex"
+  },
+  "FileSwaps": {},
+  "Manipulations": []
+}
